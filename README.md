@@ -1,6 +1,6 @@
 # Installation
 
-![tests](https://github.com/RvonGlahn/CPP-BattleSnake/actions/workflows/pytest.yml/badge.svg)
+![tests](https://github.com/RvonGlahn/deloitte/actions/workflows/pytest.yml/badge.svg)
 
 Create conda env:
 
